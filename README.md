@@ -10,3 +10,4 @@ Create your own virtual environment with the required requirements.
 # Notes
 Cleaned data file is used to store the outputs of the preprocessed data.
 This dataset is used for the Models file for modelling.
+Models contains the best models for Random Forest and XGBoost.
